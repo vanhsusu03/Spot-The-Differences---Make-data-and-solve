@@ -1,1 +1,1 @@
-# Spot-The-Differences---Make-data-and-solve
+# Spot The Differences: Make game data and solve
